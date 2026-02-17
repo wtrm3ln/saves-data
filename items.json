@@ -1,7 +1,7 @@
 [
   {
     "title": "2586 Labs",
-    "url": "https://fold.money",
+    "url": "https://2586labs.com/",
     "categories": [
       "companies"
     ]
@@ -22,7 +22,7 @@
   },
   {
     "title": "sideways",
-    "url": "https://sideways.co.in/careers",
+    "url": "https://sideways.co.in/",
     "categories": [
       "companies"
     ]
@@ -36,7 +36,7 @@
   },
   {
     "title": "kilm type",
-    "url": "https://klim.co.nz/?ref=fuse-kiwi",
+    "url": "https://klim.co.nz/",
     "categories": [
       "design"
     ]
@@ -56,20 +56,6 @@
     ]
   },
   {
-    "title": "2586 labs",
-    "url": "https://2586labs.com/",
-    "categories": [
-      "companies"
-    ]
-  },
-  {
-    "title": "fold money",
-    "url": "https://fold.money/team",
-    "categories": [
-      "companies"
-    ]
-  },
-  {
     "title": "Ghost cms",
     "url": "https://ghost.org/?ref=iamjp.fr",
     "categories": [
@@ -84,20 +70,6 @@
     ]
   },
   {
-    "title": "Job boarrd",
-    "url": "https://deadsimplejobs.com/",
-    "categories": [
-      "companies"
-    ]
-  },
-  {
-    "title": "Mason",
-    "url": "https://mw.works/?ref=deadsimplesites",
-    "categories": [
-      "people"
-    ]
-  },
-  {
     "title": "Baukunst",
     "url": "https://baukunst.co/",
     "categories": [
@@ -105,15 +77,8 @@
     ]
   },
   {
-    "title": "Daniel Gross",
-    "url": "https://danielgross.com/?ref=deadsimplesites",
-    "categories": [
-      "people"
-    ]
-  },
-  {
     "title": "Simon Ellison",
-    "url": "https://simonellison.com/?ref=deadsimplesites",
+    "url": "https://simonellison.com/",
     "categories": [
       "people"
     ]
@@ -122,7 +87,7 @@
     "title": "paradigm",
     "url": "https://www.paradigmai.com/",
     "categories": [
-      "companies"
+      "ai", "tech"
     ]
   },
   {
@@ -133,43 +98,29 @@
     ]
   },
   {
-    "title": "arcade labs",
-    "url": "https://arcade.la/?ref=deadsimplesites",
-    "categories": [
-      "companies"
-    ]
-  },
-  {
     "title": "duane",
-    "url": "https://kingduane.com/?ref=deadsimplesites",
+    "url": "https://kingduane.com/",
     "categories": [
       "people"
     ]
   },
   {
     "title": "Peter",
-    "url": "https://www.peterdpong.com/?ref=deadsimplesites",
+    "url": "https://www.peterdpong.com/",
     "categories": [
       "people"
     ]
   },
   {
     "title": "Hennington",
-    "url": "https://www.henningbirgersson.com/?ref=deadsimplesites",
-    "categories": [
-      "people"
-    ]
-  },
-  {
-    "title": "Dan",
-    "url": "https://danmiloch.com/?ref=deadsimplesites",
+    "url": "https://www.henningbirgersson.com/",
     "categories": [
       "people"
     ]
   },
   {
     "title": "Pentagram",
-    "url": "https://www.pentagram.com/industrialproduct-design",
+    "url": "https://www.pentagram.com/",
     "categories": [
       "companies"
     ]
@@ -196,13 +147,6 @@
     ]
   },
   {
-    "title": "vanschneider",
-    "url": "https://vanschneider.com/",
-    "categories": [
-      "people"
-    ]
-  },
-  {
     "title": "Google AI Labs",
     "url": "https://labs.google/experiments",
     "categories": [
@@ -221,7 +165,6 @@
     "title": "Anthropic",
     "url": "https://www.anthropic.com",
     "categories": [
-      "websites",
       "companies"
     ]
   },
@@ -229,24 +172,8 @@
     "title": "n8n",
     "url": "https://n8n.io",
     "categories": [
-      "companies",
-      "cool-internet",
-      "websites"
-    ]
-  },
-  {
-    "title": "Deta Surf",
-    "url": "https://deta.surf",
-    "categories": [
-      "cool-internet",
-      "companies"
-    ]
-  },
-  {
-    "title": "Adam ",
-    "url": "https://cybrneon.xyz",
-    "categories": [
-      "people"
+      "tech",
+      "ai"
     ]
   },
   {
@@ -282,7 +209,7 @@
     "title": "Stripe",
     "url": "https://stripe.com/in",
     "categories": [
-      "companies"
+      "tech","websites"
     ]
   },
   {
@@ -330,19 +257,10 @@
     ]
   },
   {
-    "title": "Anusheel Gurjar",
-    "url": "https://anusheelgurjar.com",
-    "categories": [
-      "people",
-      "websites"
-    ]
-  },
-  {
     "title": "House of Katha",
     "url": "https://www.houseofkatha.co",
     "categories": [
-      "websites",
-      "people"
+      "companies"
     ]
   },
   {
@@ -368,14 +286,6 @@
     ]
   },
   {
-    "title": "Other Tommorows",
-    "url": "https://www.othertomorrows.com",
-    "categories": [
-      "companies",
-      "websites"
-    ]
-  },
-  {
     "title": "Wise",
     "url": "https://wise.com",
     "categories": [
@@ -386,7 +296,7 @@
     "title": "Raw Materials",
     "url": "https://www.therawmaterials.com/",
     "categories": [
-      "websites"
+      "websites", "companies"
     ]
   },
   {
@@ -394,13 +304,6 @@
     "url": "https://mmm.page/",
     "categories": [
       "design"
-    ]
-  },
-  {
-    "title": "Sahil Lavingia",
-    "url": "https://sahillavingia.com/",
-    "categories": [
-      "people"
     ]
   },
   {
@@ -477,7 +380,7 @@
     "title": "Paper Design",
     "url": "https://paper.design/",
     "categories": [
-      "companies"
+      "design"
     ]
   },
   {
@@ -523,13 +426,6 @@
     ]
   },
   {
-    "title": "Raw Materials /",
-    "url": "https://handsome.is/now-raw-materials/",
-    "categories": [
-      "companies"
-    ]
-  },
-  {
     "title": "What I worked on - PG",
     "url": "https://paulgraham.com/worked.html",
     "categories": [
@@ -555,14 +451,6 @@
     "url": "https://origami.design/",
     "categories": [
       "design"
-    ]
-  },
-  {
-    "title": "Studio Fright",
-    "url": "https://studiofreight.com/",
-    "categories": [
-      "websites",
-      "people"
     ]
   },
   {
@@ -596,13 +484,6 @@
   {
     "title": "ANtiWork",
     "url": "https://antiwork.com/",
-    "categories": [
-      "companies"
-    ]
-  },
-  {
-    "title": "Snapp Automotive",
-    "url": "https://www.snappautomotive.io/snappos-light",
     "categories": [
       "companies"
     ]
@@ -655,21 +536,6 @@
     "url": "https://neat.firecms.co/",
     "categories": [
       "design"
-    ]
-  },
-  {
-    "title": "Wall of Portfolios",
-    "url": "https://www.wallofportfolios.in/",
-    "categories": [
-      "people"
-    ]
-  },
-  {
-    "title": "MVP Floww",
-    "url": "https://mvpfloww.com/",
-    "categories": [
-      "websites",
-      "people"
     ]
   },
   {
