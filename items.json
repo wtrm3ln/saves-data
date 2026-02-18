@@ -87,7 +87,8 @@
     "title": "paradigm",
     "url": "https://www.paradigmai.com/",
     "categories": [
-      "ai", "tech"
+      "ai",
+      "tech"
     ]
   },
   {
@@ -209,7 +210,8 @@
     "title": "Stripe",
     "url": "https://stripe.com/in",
     "categories": [
-      "tech","websites"
+      "tech",
+      "websites"
     ]
   },
   {
@@ -296,7 +298,8 @@
     "title": "Raw Materials",
     "url": "https://www.therawmaterials.com/",
     "categories": [
-      "websites", "companies"
+      "websites",
+      "companies"
     ]
   },
   {
@@ -630,6 +633,14 @@
     "url": "https://patents.google.com/",
     "categories": [
       "research"
+    ]
+  },
+  {
+    "title": "ASCII Play",
+    "url": "https://play.ertdfgcvb.xyz/",
+    "categories": [
+      "design",
+      "tech"
     ]
   }
 ]
