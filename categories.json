@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ai",
+    "name": "AI",
+    "icon": "icons/ai.svg",
+    "description": "AI tools"
+  },
+  {
+    "id": "companies",
+    "name": "Companies",
+    "icon": "icons/companies.svg",
+    "description": "Companies doing interesting work, with fresh ways of working"
+  },
+  {
+    "id": "cool-internet",
+    "name": "Cool Internet",
+    "icon": "icons/cool internet.svg",
+    "description": ""
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "icon": "icons/design.svg",
+    "description": "Design tools"
+  },
+  {
+    "id": "people",
+    "name": "People",
+    "icon": "icons/people.svg",
+    "description": "People with interesting approaches to work and creativity"
+  },
+  {
+    "id": "read",
+    "name": "Read",
+    "icon": "icons/read.svg",
+    "description": "Essays worth re-reading"
+  },
+  {
+    "id": "research",
+    "name": "Research",
+    "icon": "icons/research.svg",
+    "description": "Research tools"
+  },
+  {
+    "id": "tech",
+    "name": "Tech",
+    "icon": "icons/tech.svg",
+    "description": "Tech tools"
+  },
+  {
+    "id": "websites",
+    "name": "Websites",
+    "icon": "icons/websites.svg",
+    "description": "Websites with great visual design, interactions and storytelling"
+  }
+]
