@@ -6,6 +6,11 @@
     "description": "AI tools"
   },
   {
+    "id": "businesses",
+    "name": "Businesses",
+    "description": "businesses that feel like they care"
+  },
+  {
     "id": "companies",
     "name": "Companies",
     "icon": "icons/companies.svg",
