@@ -827,5 +827,68 @@
     "categories": [
       "ds"
     ]
+  },
+  {
+    "title": "Cash App",
+    "url": "https://design.cash.app",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "title": "Linear",
+    "url": "https://linear.app/now/how-we-redesigned-the-linear-ui",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "title": "Duolingo",
+    "url": "https://design.duolingo.com",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "title": "Github Primer",
+    "url": "https://primer.style",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "title": "GitHub Brand Guidelines",
+    "url": "https://brand.github.com",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "title": "Carbon",
+    "url": "https://carbondesignsystem.com",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "title": "Apple",
+    "url": "https://developer.apple.com/design/human-interface-guidelines",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "title": "Apple 1995",
+    "url": "https://github.com/gingerbeardman/apple-human-interface-guidelines/blob/main/1995%20Macintosh%20Human%20Interface%20Guidelines.pdf",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "title": "Uber",
+    "url": "https://base.uber.com/",
+    "categories": [
+      "ds"
+    ]
   }
 ]
