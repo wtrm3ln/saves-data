@@ -29,6 +29,12 @@
     "description": "Design tools"
   },
   {
+    "id": "ds",
+    "name": "Design Systems",
+    "icon": "icons/design.svg",
+    "description": "Resources on design systems, patterns and components"
+  },
+  {
     "id": "people",
     "name": "People",
     "icon": "icons/people.svg",
